@@ -1,7 +1,14 @@
-$(document).ready(funtion(){
+$(document).ready(function() {
 
-// start game-button -- on click function
+$("#button").on("click", startButton);
 
+// start game-button -- on click function (there will be a button)
+
+function startGame() {
+
+} 
+
+    
 // once game starts. timer starts, question comes up.
 
 // hovering over the answer -- border shows
