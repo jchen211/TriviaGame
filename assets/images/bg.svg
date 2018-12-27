@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#E02E69;}
+	.st1{clip-path:url(#SVGID_2_);fill:#34359C;}
+	.st2{clip-path:url(#SVGID_2_);fill:#6F72DE;}
+	.st3{fill:#6F72DE;}
+	.st4{fill:#E02E69;}
+	.st5{fill:#68D7D8;}
+	.st6{fill:#34359C;}
+	.st7{fill:#FFD500;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1280" height="1024"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0" d="M0,785c68.9-72.8,231.2,34.9,346-58c70.4-56.9,50.9-130.1,117-153c68.6-23.8,108.5,48.3,228,56
+		c21.4,1.4,123.4,7.1,202-52c125-94.1,88.1-254.6,170-276c58.5-15.3,142.1,49.7,172,122c44,106.3-37.7,205.2,8,250
+		c16.5,16.2,52.5,28,141-3v385c-453,5.3-906,10.7-1359,16C-50.2,889.9-30.8,817.6,0,785z"/>
+	<path class="st1" d="M-43.5,929.5c67.3-94.4,175.3-211.3,327-236c229.4-37.3,402.8,161.7,509,85c96.5-69.7-9.6-260.9,109-361
+		c80.5-67.9,170.7-14.8,291-95c73.8-49.2,114.1-118.6,136-167v944l-1372,9V929.5z"/>
+	<circle class="st2" cx="906" cy="1011" r="98"/>
+</g>
+<circle class="st3" cx="217" cy="740" r="57"/>
+<polygon class="st4" points="1109.8,565.7 1124.7,621.3 1165.4,580.6 "/>
+<polygon class="st4" points="482.8,932.7 467.9,877.1 427.2,917.8 "/>
+<polygon class="st5" points="1139.8,898.7 1084.2,913.6 1124.9,954.3 "/>
+<polygon class="st5" points="1027.8,460.7 972.2,475.6 1012.9,516.3 "/>
+<polygon class="st5" points="313.8,541.7 258.2,556.6 298.9,597.3 "/>
+<polygon class="st5" points="172.8,183.7 117.2,198.6 157.9,239.3 "/>
+<polygon class="st5" points="797.8,338.7 742.2,353.6 782.9,394.3 "/>
+<polygon class="st4" points="951.8,99.7 896.2,114.6 936.9,155.3 "/>
+<polygon class="st6" points="159.8,207.7 174.7,263.3 215.4,222.6 "/>
+<polygon class="st5" points="1230,274.2 1143.2,297.5 1206.8,361 "/>
+<circle class="st7" cx="831.5" cy="732.5" r="57.5"/>
+</svg>
