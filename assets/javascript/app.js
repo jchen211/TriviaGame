@@ -1,11 +1,23 @@
 $(document).ready(function() {
 
-$("#button").on("click", startButton);
+var correctAnswers = 0;
+var wrongAnswers = 0;
+var timerCount;
 
 // start game-button -- on click function (there will be a button)
+$("#button").on("click", startGame);
 
+setTimeout(thirtySeconds, 1000 * 30);
+
+funtion thirtySeconds() {
+    timerCount = setInterval(count, 1000);
+    $('#timer').text('00:30');
+}
+
+// what happens when button is clicked?
+//question # appears, question appears, and answer choices appear
 function startGame() {
-
+    thirtySeconds();
 } 
 
     
